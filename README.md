@@ -5,6 +5,8 @@ This project reviewed data about home sales in the Seattle, Washington (King cou
 - Part one focused on exploring the data and using different statistical tests (including linear regression) to understand the relationships present between the price and different features
 - Part two was aimed at building a model that predicts home prices as accurately as possible with those features
 
+<img width="1006" alt="Screen Shot 2021-06-02 at 7 17 11 AM" src="https://user-images.githubusercontent.com/81783731/120833727-241e4e00-c530-11eb-98e6-4108b44a96a5.png">
+
 This repo includes the following files:
 - _Hodgens Inference.ipynp_ Jupyter notebook detailing inferential statistics about King county housing (Part one of project)
 - _Hodgens Moedling.ipynp_ Jupyter notebook containing steps for building machine learning model (Part two of project)
