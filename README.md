@@ -8,5 +8,6 @@ This repo includes the following files:
 - _Hodgens Inference.ipynp_ Jupyter notebook detailing inferential statistics about King county housing (Part one of project)
 - _Hodgens Moedling.ipynp_ Jupyter notebook containing steps for building machine learning model
 - _Hodgens Final Predictions.ipynp_ Jupyter notebook leveraging model to predict on a test set to be evaluated against other models
+- _housing_preds_james_hodgens.csv_ Comma separated values for ~4k houses (to be evaluated against output from other models)
 - _King County Housing.pdf_ Presentation on some initial findings from the dataset
-- _
+- _README.md_ You are reading this now
